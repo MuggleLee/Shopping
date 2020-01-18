@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShopConfig/ShopConfig.iml" filepath="$PROJECT_DIR$/ShopConfig/ShopConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegisterCenter/ShopRegister.iml" filepath="$PROJECT_DIR$/RegisterCenter/ShopRegister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shopping.iml" filepath="$PROJECT_DIR$/Shopping.iml" />
+    </modules>
+  </component>
+</project>
