@@ -8,6 +8,14 @@
         <option value="$PROJECT_DIR$/ShopConfig/pom.xml" />
         <option value="$PROJECT_DIR$/ShopGateway/pom.xml" />
         <option value="$PROJECT_DIR$/ShopRegister/pom.xml" />
+        <option value="$PROJECT_DIR$/ShopOrder/pom.xml" />
+        <option value="$PROJECT_DIR$/ShopPojo/pom.xml" />
+        <option value="$PROJECT_DIR$/ShopCommon/pom.xml" />
+        <option value="$PROJECT_DIR$/ShopPayA/pom.xml" />
+        <option value="$PROJECT_DIR$/ShopPayB/pom.xml" />
+        <option value="$PROJECT_DIR$/ShopCoupon/pom.xml" />
+        <option value="$PROJECT_DIR$/ShopUser/pom.xml" />
+        <option value="$PROJECT_DIR$/ShopGoods/pom.xml" />
       </list>
     </option>
   </component>

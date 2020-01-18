@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShopCommon/ShopCommon.iml" filepath="$PROJECT_DIR$/ShopCommon/ShopCommon.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShopConfig/ShopConfig.iml" filepath="$PROJECT_DIR$/ShopConfig/ShopConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopCoupon/ShopCoupon.iml" filepath="$PROJECT_DIR$/ShopCoupon/ShopCoupon.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShopGateway/ShopGateway.iml" filepath="$PROJECT_DIR$/ShopGateway/ShopGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopGoods/ShopGoods.iml" filepath="$PROJECT_DIR$/ShopGoods/ShopGoods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopOrder/ShopOrder.iml" filepath="$PROJECT_DIR$/ShopOrder/ShopOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopPayA/ShopPayA.iml" filepath="$PROJECT_DIR$/ShopPayA/ShopPayA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopPayB/ShopPayB.iml" filepath="$PROJECT_DIR$/ShopPayB/ShopPayB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopPojo/ShopPojo.iml" filepath="$PROJECT_DIR$/ShopPojo/ShopPojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShopRegister/ShopRegister.iml" filepath="$PROJECT_DIR$/ShopRegister/ShopRegister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopUser/ShopUser.iml" filepath="$PROJECT_DIR$/ShopUser/ShopUser.iml" />
       <module fileurl="file://$PROJECT_DIR$/Shopping.iml" filepath="$PROJECT_DIR$/Shopping.iml" />
     </modules>
   </component>

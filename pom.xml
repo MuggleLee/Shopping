@@ -103,6 +103,14 @@
         <module>ShopRegister</module>
         <module>ShopConfig</module>
         <module>ShopGateway</module>
+        <module>ShopOrder</module>
+        <module>ShopPojo</module>
+        <module>ShopCommon</module>
+        <module>ShopPayA</module>
+        <module>ShopPayB</module>
+        <module>ShopCoupon</module>
+        <module>ShopUser</module>
+        <module>ShopGoods</module>
     </modules>
 
 </project>

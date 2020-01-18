@@ -6,16 +6,32 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ShopCommon" />
         <module name="ShopConfig" />
+        <module name="ShopCoupon" />
         <module name="ShopGateway" />
+        <module name="ShopGoods" />
+        <module name="ShopOrder" />
+        <module name="ShopPayA" />
+        <module name="ShopPayB" />
+        <module name="ShopPojo" />
         <module name="ShopRegister" />
+        <module name="ShopUser" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ShopCommon" target="1.8" />
       <module name="ShopConfig" target="1.8" />
+      <module name="ShopCoupon" target="1.8" />
       <module name="ShopGateway" target="1.8" />
+      <module name="ShopGoods" target="1.8" />
+      <module name="ShopOrder" target="1.8" />
+      <module name="ShopPayA" target="1.8" />
+      <module name="ShopPayB" target="1.8" />
       <module name="Shopping" target="1.8" />
+      <module name="ShopPojo" target="1.8" />
       <module name="ShopRegister" target="1.8" />
+      <module name="ShopUser" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
