@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ShopConfig" />
+        <module name="ShopGateway" />
         <module name="ShopRegister" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ShopConfig" target="1.8" />
+      <module name="ShopGateway" target="1.8" />
       <module name="Shopping" target="1.8" />
       <module name="ShopRegister" target="1.8" />
     </bytecodeTargetLevel>

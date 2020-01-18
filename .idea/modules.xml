@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ShopConfig/ShopConfig.iml" filepath="$PROJECT_DIR$/ShopConfig/ShopConfig.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RegisterCenter/ShopRegister.iml" filepath="$PROJECT_DIR$/RegisterCenter/ShopRegister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopGateway/ShopGateway.iml" filepath="$PROJECT_DIR$/ShopGateway/ShopGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopRegister/ShopRegister.iml" filepath="$PROJECT_DIR$/ShopRegister/ShopRegister.iml" />
       <module fileurl="file://$PROJECT_DIR$/Shopping.iml" filepath="$PROJECT_DIR$/Shopping.iml" />
     </modules>
   </component>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.hao</groupId>
         <artifactId>shopping-sc</artifactId>
         <version>1.0.0</version>
+        <!--<relativePath>../pom.xml</relativePath>-->
     </parent>
     <groupId>com.hao</groupId>
-    <artifactId>shop-config</artifactId>
+    <artifactId>shop-register</artifactId>
     <version>1.0.0</version>
-    <name>ShopConfig</name>
+    <name>ShopRegister</name>
 
     <dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-config-server</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+            <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
         </dependency>
     </dependencies>
 
+    <properties>
+        <docker.image.prefix>ShopRegister</docker.image.prefix>
+    </properties>
     <build>
         <finalName>${project.artifactId}</finalName>
         <plugins>
