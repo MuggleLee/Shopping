@@ -1,4 +1,4 @@
-package com.hao.shopregister;
+package com.hao.register;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -44,6 +44,16 @@
             <!--<groupId>org.springframework.cloud</groupId>-->
             <!--<artifactId>spring-cloud-starter-zipkin</artifactId>-->
         <!--</dependency>-->
+        <dependency>
+            <groupId>com.baomidou</groupId>
+            <artifactId>mybatis-plus-boot-starter</artifactId>
+            <version>3.2.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.hao</groupId>
+            <artifactId>shop-pojo</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
 
     <build>

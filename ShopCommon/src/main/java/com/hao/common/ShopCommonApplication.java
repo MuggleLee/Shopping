@@ -1,4 +1,4 @@
-package com.hao.shopcommon;
+package com.hao.common;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
