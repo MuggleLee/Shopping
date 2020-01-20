@@ -1,10 +1,12 @@
 package com.hao.pojo.entity;
 
+import com.baomidou.mybatisplus.extension.activerecord.Model;
+
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.Date;
 
-public class TradeGoods implements Serializable {
+public class TradeGoods extends Model<TradeGoods> implements Serializable {
     private Long goodsId;
 
     private String goodsName;

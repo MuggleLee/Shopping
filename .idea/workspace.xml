@@ -3,16 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="448764f9-bfec-4a13-bd23-af8909ac617b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShopCommon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ShopCommon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShopCommon/src/main/java/com/hao/shopcommon/ShopCommonApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopCommon/src/main/java/com/hao/common/ShopCommonApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShopCommon/src/test/java/com/hao/shopcommon/ShopCommonApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopCommon/src/test/java/com/hao/common/ShopCommonApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopConfig/ShopConfig.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ShopConfig/ShopConfig.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopGateway/ShopGateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ShopGateway/ShopGateway.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopGateway/src/test/java/com/hao/shopgateway/ShopGatewayApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ShopOrder/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ShopOrder/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/shoporder/ShopOrderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/ShopOrderApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShopOrder/src/test/java/com/hao/shoporder/ShopOrderApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopOrder/src/test/java/com/hao/order/ShopOrderApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShopPojo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPojo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/shoppojo/ShopPojoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/ShopPojoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShopPojo/src/test/java/com/hao/shoppojo/ShopPojoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPojo/src/test/java/com/hao/pojo/ShopPojoApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShopRegister/src/main/java/com/hao/shopregister/ShopRegisterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopRegister/src/main/java/com/hao/register/ShopRegisterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/CouponService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/CouponService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/GoodsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/GoodsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopOrder/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ShopOrder/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeCoupon.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeCoupon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeGoods.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeGoods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeGoodsNumberLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeGoodsNumberLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeUserMoneyLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeUserMoneyLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopRegister/ShopRegister.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ShopRegister/ShopRegister.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopRegister/target/classes/com/hao/shopregister/ShopRegisterApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shopping.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Shopping.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,8 +68,48 @@
       <file leaf-file-name="OrderServiceImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/service/impl/OrderServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="200">
+              <caret line="190" column="29" selection-start-line="190" selection-start-column="17" selection-end-line="190" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2528#2598#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ShopOrder/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ShopConfig/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="9" selection-end-line="34" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ShopRegister/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="31" selection-end-line="43" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MQEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ShopCommon/src/main/java/com/hao/common/entity/MQEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,39 +117,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TradeOrderMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/mapper/TradeOrderMapper.java">
+      <file leaf-file-name="TradeUserMoneyLog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeUserMoneyLog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="528">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TradeOrder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#902#903#0" expanded="true" />
-                <element signature="e#940#941#0" expanded="true" />
-                <element signature="e#2339#2340#0" expanded="true" />
-                <element signature="e#2372#2373#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShopCommon/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -108,54 +132,26 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ShopOrder/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="48" column="43" lean-forward="true" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="44" />
+            <state relative-caret-position="722">
+              <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TradeCoupon.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeCoupon.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
-              <folding>
-                <element signature="e#980#981#0" expanded="true" />
-                <element signature="e#1009#1010#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="704">
+              <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CouponService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/CouponService.java">
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoodsService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/GoodsService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomerException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShopCommon/src/main/java/com/hao/common/exception/CustomerException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="55" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="55" />
+            <state relative-caret-position="220">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -163,8 +159,8 @@
       <file leaf-file-name="ShopCode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ShopCommon/src/main/java/com/hao/common/entity/ShopCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="154">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -185,6 +181,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>userService</find>
+      <find>rocketmq-spring-boot-starter-version</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -212,10 +209,7 @@
         <option value="$PROJECT_DIR$/shop-user/pom.xml" />
         <option value="$PROJECT_DIR$/shop-goods/src/main/java/com/hao/goods/ShopGoodsApplication.java" />
         <option value="$PROJECT_DIR$/shop-goods/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeGoodsNumberLog.java" />
         <option value="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeGoodsNumberLogKey.java" />
-        <option value="$PROJECT_DIR$/ShopOrder/pom.xml" />
         <option value="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/service/TradeOrderMapper.java" />
         <option value="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/mapper/TradeOrderMapper.java" />
         <option value="$PROJECT_DIR$/ShopPojo/pom.xml" />
@@ -225,12 +219,23 @@
         <option value="$PROJECT_DIR$/ShopCommon/src/main/java/com/hao/common/entity/ShopCode.java" />
         <option value="$PROJECT_DIR$/ShopCommon/src/main/java/com/hao/common/exception/CastException.java" />
         <option value="$PROJECT_DIR$/ShopCommon/src/main/java/com/hao/common/exception/CustomerException.java" />
-        <option value="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/UserService.java" />
-        <option value="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/GoodsService.java" />
         <option value="$PROJECT_DIR$/ShopCommon/src/main/java/com/hao/common/unilt/IDWorker.java" />
-        <option value="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/CouponService.java" />
         <option value="$PROJECT_DIR$/ShopCommon/pom.xml" />
+        <option value="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeGoods.java" />
+        <option value="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeMqConsumerLogKey.java" />
+        <option value="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeGoodsNumberLog.java" />
         <option value="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeOrder.java" />
+        <option value="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeUser.java" />
+        <option value="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/GoodsService.java" />
+        <option value="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeCoupon.java" />
+        <option value="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/CouponService.java" />
+        <option value="$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeUserMoneyLog.java" />
+        <option value="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/UserService.java" />
+        <option value="$PROJECT_DIR$/ShopOrder/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ShopCommon/src/main/java/com/hao/common/entity/MQEntity.java" />
+        <option value="$PROJECT_DIR$/ShopOrder/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/ShopOrder/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/service/impl/OrderServiceImpl.java" />
       </list>
     </option>
@@ -255,14 +260,24 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Shopping" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Shopping" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
@@ -277,6 +292,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -287,67 +303,28 @@
             <path>
               <item name="Shopping" type="b2602c69:ProjectViewProjectNode" />
               <item name="Shopping" type="462c0819:PsiDirectoryNode" />
-              <item name="ShopCommon" type="462c0819:PsiDirectoryNode" />
+              <item name="ShopConfig" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shopping" type="b2602c69:ProjectViewProjectNode" />
               <item name="Shopping" type="462c0819:PsiDirectoryNode" />
-              <item name="ShopCommon" type="462c0819:PsiDirectoryNode" />
+              <item name="ShopConfig" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shopping" type="b2602c69:ProjectViewProjectNode" />
               <item name="Shopping" type="462c0819:PsiDirectoryNode" />
-              <item name="ShopCommon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shopping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shopping" type="462c0819:PsiDirectoryNode" />
-              <item name="ShopCommon" type="462c0819:PsiDirectoryNode" />
+              <item name="ShopConfig" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shopping" type="b2602c69:ProjectViewProjectNode" />
               <item name="Shopping" type="462c0819:PsiDirectoryNode" />
-              <item name="ShopCommon" type="462c0819:PsiDirectoryNode" />
+              <item name="ShopConfig" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shopping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shopping" type="462c0819:PsiDirectoryNode" />
-              <item name="ShopCommon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shopping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shopping" type="462c0819:PsiDirectoryNode" />
-              <item name="ShopCommon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shopping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shopping" type="462c0819:PsiDirectoryNode" />
-              <item name="ShopCommon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="unilt" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shopping" type="b2602c69:ProjectViewProjectNode" />
@@ -390,56 +367,12 @@
               <item name="ShopOrder" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shopping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shopping" type="462c0819:PsiDirectoryNode" />
-              <item name="ShopOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="feign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shopping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shopping" type="462c0819:PsiDirectoryNode" />
-              <item name="ShopOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shopping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shopping" type="462c0819:PsiDirectoryNode" />
-              <item name="ShopOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shopping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shopping" type="462c0819:PsiDirectoryNode" />
-              <item name="ShopOrder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -460,9 +393,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.hao.common.unilt" />
       <recent name="com.hao.common.entity" />
       <recent name="com.hao.pojo.entity" />
+      <recent name="com.hao.common.unilt" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Github\Shopping\ShopCommon\src\main\java\com\hao\common" />
@@ -517,13 +450,29 @@
       <module name="ShopConfig" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.hao.shopconfig.ShopConfigApplication" />
     </configuration>
+    <configuration name="ShopCouponApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ShopCoupon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hao.coupon.ShopCouponApplication" />
+    </configuration>
     <configuration name="ShopGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ShopGateway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.hao.shopgateway.ShopGatewayApplication" />
     </configuration>
+    <configuration name="ShopGoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ShopGoods" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hao.goods.ShopGoodsApplication" />
+    </configuration>
     <configuration name="ShopOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ShopOrder" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.hao.order.ShopOrderApplication" />
+    </configuration>
+    <configuration name="ShopPayAApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ShopPayA" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hao.shoppaya.ShopPayAApplication" />
+    </configuration>
+    <configuration name="ShopPayBApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ShopPayB" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hao.shoppayb.ShopPayBApplication" />
     </configuration>
     <configuration name="ShopPojoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ShopPojo" />
@@ -532,6 +481,10 @@
     <configuration name="ShopRegisterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ShopRegister" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.hao.register.ShopRegisterApplication" />
+    </configuration>
+    <configuration name="ShopUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ShopUser" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hao.user.ShopUserApplication" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -562,6 +515,11 @@
       <item itemvalue="Spring Boot.ShopOrderApplication" />
       <item itemvalue="Spring Boot.ShopPojoApplication" />
       <item itemvalue="Spring Boot.ShopCommonApplication" />
+      <item itemvalue="Spring Boot.ShopGoodsApplication" />
+      <item itemvalue="Spring Boot.ShopPayBApplication" />
+      <item itemvalue="Spring Boot.ShopUserApplication" />
+      <item itemvalue="Spring Boot.ShopCouponApplication" />
+      <item itemvalue="Spring Boot.ShopPayAApplication" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -582,45 +540,45 @@
       <workItem from="1579362591556" duration="576000" />
       <workItem from="1579363200891" duration="199000" />
       <workItem from="1579363416156" duration="2247000" />
-      <workItem from="1579433102068" duration="6649000" />
+      <workItem from="1579433102068" duration="7311000" />
+      <workItem from="1579525682425" duration="8336000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18213000" />
+    <option name="totallyTimeSpent" value="27211000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32901832" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3272921" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.32901832" />
+      <window_info anchor="right" id="Maven Projects" order="10" weight="0.3272921" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
+      <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run Dashboard" order="8" weight="0.32901832" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="right" id="leetcode" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32901832" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Run Dashboard" order="13" weight="0.32901832" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="leetcode" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.42071196" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.38942826" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19936034" />
-      <window_info anchor="right" id="Bean Validation" order="3" />
-      <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32901832" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3890086" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18443497" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -636,45 +594,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ShopConfig/src/main/java/com/hao/shopconfig/ShopConfigApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShopRegister/src/main/java/com/hao/register/ShopRegisterApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShopRegister/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShopRegister/shop-register.iml" />
-    <entry file="file://$PROJECT_DIR$/ShopRegister/ShopRegister.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShopRegister/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ShopOrder/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -709,9 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -763,47 +679,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="89" column="23" lean-forward="true" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeUser.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeMqConsumerLog.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeMqProducerTemp.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradePay.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeUserMoneyLog.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeGoods.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeGoodsNumberLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeGoodsNumberLogKey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/bind/annotation/RestController.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -837,11 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -856,36 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="44" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/GoodsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShopCommon/src/main/java/com/hao/common/entity/ShopCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -911,41 +756,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/CouponService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeCoupon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
-          <folding>
-            <element signature="e#980#981#0" expanded="true" />
-            <element signature="e#1009#1010#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/mapper/TradeOrderMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="88">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShopOrder/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="48" column="43" lean-forward="true" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -956,26 +773,174 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeOrder.java">
+    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeMqConsumerLog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="88">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeMqConsumerLogKey.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeGoods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopGateway/src/test/java/com/hao/shopgateway/ShopGatewayApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="5" lean-forward="true" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#902#903#0" expanded="true" />
-            <element signature="e#940#941#0" expanded="true" />
-            <element signature="e#2339#2340#0" expanded="true" />
-            <element signature="e#2372#2373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeGoodsNumberLogKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="25" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.2.0/mybatis-plus-extension-3.2.0.jar!/com/baomidou/mybatisplus/extension/activerecord/Model.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="84" column="19" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeGoodsNumberLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeCoupon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/CouponService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/feign/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopOrder/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopRegister/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="31" selection-end-line="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopConfig/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="9" selection-end-line="34" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopOrder/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopCommon/src/main/java/com/hao/common/entity/MQEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopCommon/src/main/java/com/hao/common/entity/ShopCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShopPojo/src/main/java/com/hao/pojo/entity/TradeUserMoneyLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ShopOrder/src/main/java/com/hao/order/service/impl/OrderServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="200">
+          <caret line="190" column="29" selection-start-line="190" selection-start-column="17" selection-end-line="190" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2528#2598#0" />
           </folding>
         </state>
       </provider>

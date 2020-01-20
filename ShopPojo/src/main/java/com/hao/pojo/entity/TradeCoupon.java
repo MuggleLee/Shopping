@@ -1,10 +1,17 @@
 package com.hao.pojo.entity;
 
+import com.baomidou.mybatisplus.extension.activerecord.Model;
+import com.hao.common.entity.Result;
+import lombok.Builder;
+import lombok.Data;
+
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.Date;
 
-public class TradeCoupon implements Serializable{
+@Data
+@Builder
+public class TradeCoupon extends Model<TradeCoupon> implements Serializable{
     private Long couponId;
 
     private BigDecimal couponPrice;
@@ -17,51 +24,4 @@ public class TradeCoupon implements Serializable{
 
     private Date usedTime;
 
-    public Long getCouponId() {
-        return couponId;
-    }
-
-    public void setCouponId(Long couponId) {
-        this.couponId = couponId;
-    }
-
-    public BigDecimal getCouponPrice() {
-        return couponPrice;
-    }
-
-    public void setCouponPrice(BigDecimal couponPrice) {
-        this.couponPrice = couponPrice;
-    }
-
-    public Long getUserId() {
-        return userId;
-    }
-
-    public void setUserId(Long userId) {
-        this.userId = userId;
-    }
-
-    public Long getOrderId() {
-        return orderId;
-    }
-
-    public void setOrderId(Long orderId) {
-        this.orderId = orderId;
-    }
-
-    public Integer getIsUsed() {
-        return isUsed;
-    }
-
-    public void setIsUsed(Integer isUsed) {
-        this.isUsed = isUsed;
-    }
-
-    public Date getUsedTime() {
-        return usedTime;
-    }
-
-    public void setUsedTime(Date usedTime) {
-        this.usedTime = usedTime;
-    }
 }

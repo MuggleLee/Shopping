@@ -1,26 +1,26 @@
 package com.hao.pojo.entity;
 
+import com.baomidou.mybatisplus.extension.activerecord.Model;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
 import java.io.Serializable;
 import java.util.Date;
 
-public class TradeGoodsNumberLog extends TradeGoodsNumberLogKey implements Serializable {
+@Data
+@Builder
+@NoArgsConstructor
+@AllArgsConstructor
+public class TradeGoodsNumberLog extends Model<TradeGoodsNumberLog> implements Serializable {
+
+    private Long goodsId;
+
+    private Long orderId;
+
     private Integer goodsNumber;
 
     private Date logTime;
 
-    public Integer getGoodsNumber() {
-        return goodsNumber;
-    }
-
-    public void setGoodsNumber(Integer goodsNumber) {
-        this.goodsNumber = goodsNumber;
-    }
-
-    public Date getLogTime() {
-        return logTime;
-    }
-
-    public void setLogTime(Date logTime) {
-        this.logTime = logTime;
-    }
 }

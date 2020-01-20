@@ -1,27 +1,25 @@
 package com.hao.pojo.entity;
 
+import com.baomidou.mybatisplus.extension.activerecord.Model;
+import lombok.Builder;
+import lombok.Data;
+
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.Date;
 
-public class TradeUserMoneyLog extends TradeUserMoneyLogKey implements Serializable {
+@Data
+@Builder
+public class TradeUserMoneyLog extends Model<TradeUserMoneyLog> implements Serializable {
+
+    private Long userId;
+
+    private Long orderId;
+
+    private Integer moneyLogType;
+
     private BigDecimal useMoney;
 
     private Date createTime;
 
-    public BigDecimal getUseMoney() {
-        return useMoney;
-    }
-
-    public void setUseMoney(BigDecimal useMoney) {
-        this.useMoney = useMoney;
-    }
-
-    public Date getCreateTime() {
-        return createTime;
-    }
-
-    public void setCreateTime(Date createTime) {
-        this.createTime = createTime;
-    }
 }

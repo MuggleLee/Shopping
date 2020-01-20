@@ -54,6 +54,10 @@
             <artifactId>shop-pojo</artifactId>
             <version>1.0.0</version>
         </dependency>
+        <dependency>
+            <groupId></groupId>
+            <artifactId></artifactId>
+        </dependency>
     </dependencies>
 
     <build>

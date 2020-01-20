@@ -1,9 +1,15 @@
 package com.hao.pojo.entity;
 
+import com.baomidou.mybatisplus.extension.activerecord.Model;
+import lombok.Builder;
+import lombok.Data;
+
 import java.io.Serializable;
 import java.util.Date;
 
-public class TradeUser implements Serializable {
+@Data
+@Builder
+public class TradeUser extends Model<TradeUser> implements Serializable {
     private Long userId;
 
     private String userName;
@@ -17,60 +23,4 @@ public class TradeUser implements Serializable {
     private Date userRegTime;
 
     private Long userMoney;
-
-    public Long getUserId() {
-        return userId;
-    }
-
-    public void setUserId(Long userId) {
-        this.userId = userId;
-    }
-
-    public String getUserName() {
-        return userName;
-    }
-
-    public void setUserName(String userName) {
-        this.userName = userName == null ? null : userName.trim();
-    }
-
-    public String getUserPassword() {
-        return userPassword;
-    }
-
-    public void setUserPassword(String userPassword) {
-        this.userPassword = userPassword == null ? null : userPassword.trim();
-    }
-
-    public String getUserMobile() {
-        return userMobile;
-    }
-
-    public void setUserMobile(String userMobile) {
-        this.userMobile = userMobile == null ? null : userMobile.trim();
-    }
-
-    public Integer getUserScore() {
-        return userScore;
-    }
-
-    public void setUserScore(Integer userScore) {
-        this.userScore = userScore;
-    }
-
-    public Date getUserRegTime() {
-        return userRegTime;
-    }
-
-    public void setUserRegTime(Date userRegTime) {
-        this.userRegTime = userRegTime;
-    }
-
-    public Long getUserMoney() {
-        return userMoney;
-    }
-
-    public void setUserMoney(Long userMoney) {
-        this.userMoney = userMoney;
-    }
 }

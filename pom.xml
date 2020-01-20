@@ -25,6 +25,7 @@
         <elasticsearch.version>6.2.4</elasticsearch.version>
         <security-oauth2.version>2.3.3.RELEASE</security-oauth2.version>
         <docker.image.prefix>springboot</docker.image.prefix>
+        <rocketmq-spring-boot-starter-version>2.0.3</rocketmq-spring-boot-starter-version>
     </properties>
 
     <dependencies>
@@ -66,7 +67,12 @@
             <artifactId>commons-collections4</artifactId>
             <version>${commons-collections}</version>
         </dependency>
-
+        <!--RocketMQ-->
+        <dependency>
+            <groupId>org.apache.rocketmq</groupId>
+            <artifactId>rocketmq-spring-boot-starter</artifactId>
+            <version>${rocketmq-spring-boot-starter-version}</version>
+        </dependency>
     </dependencies>
     <dependencyManagement>
         <dependencies>
